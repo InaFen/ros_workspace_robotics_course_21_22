@@ -1,0 +1,2 @@
+test_package
+-DCATKIN_DEVEL_PREFIX=/home/ani/catkin_ws_FENDEL/devel -DCMAKE_INSTALL_PREFIX=/home/ani/catkin_ws_FENDEL/install -G Unix Makefiles
